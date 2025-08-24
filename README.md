@@ -1,10 +1,10 @@
 ### EXPERIMENT--01-ALP-FOR-8086
 
-NAME : YOGESH D
+### NAME : YOGESH D
 
-ROLL NO : 212224040371
+### ROLL NO : 212224040371
 
-DATE OF EXPERIMENT : 
+### DATE OF EXPERIMENT : 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
